@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.99b6f6eb.css",
-    "main.js": "/static/js/main.890e21e8.js",
+    "main.css": "/static/css/main.2fe5214e.css",
+    "main.js": "/static/js/main.6df168da.js",
     "static/js/787.b05f1f2b.chunk.js": "/static/js/787.b05f1f2b.chunk.js",
     "static/media/HeaderImage1.jpg": "/static/media/HeaderImage1.565d253e4d6a66301e63.jpg",
-    "static/media/info3.png": "/static/media/info3.fff37267d333f1727a9c.png",
+    "static/media/work3.png": "/static/media/work3.1d0d4108254ed430d530.png",
+    "static/media/work2.png": "/static/media/work2.3a5c0c4011ba63e6e80e.png",
+    "static/media/work1.png": "/static/media/work1.4c2e9d30cea1afdbc0a8.png",
+    "static/media/info.png": "/static/media/info.109b96f0930b259f90cc.png",
     "static/media/Chandan.jpg": "/static/media/Chandan.7225a72c0c676fff4a60.jpg",
     "static/media/aboutus.jpg": "/static/media/aboutus.32063a9612c15dd1c5a8.jpg",
     "static/media/Adhrit.jpg": "/static/media/Adhrit.018835311c9198945c76.jpg",
@@ -13,12 +16,12 @@
     "static/media/Mithlesh.jpg": "/static/media/Mithlesh.edf3453aefda73e773a1.jpg",
     "static/media/intro-bg.jpg": "/static/media/intro-bg.6d1bf2ed7fef1250321f.jpg",
     "index.html": "/index.html",
-    "main.99b6f6eb.css.map": "/static/css/main.99b6f6eb.css.map",
-    "main.890e21e8.js.map": "/static/js/main.890e21e8.js.map",
+    "main.2fe5214e.css.map": "/static/css/main.2fe5214e.css.map",
+    "main.6df168da.js.map": "/static/js/main.6df168da.js.map",
     "787.b05f1f2b.chunk.js.map": "/static/js/787.b05f1f2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99b6f6eb.css",
-    "static/js/main.890e21e8.js"
+    "static/css/main.2fe5214e.css",
+    "static/js/main.6df168da.js"
   ]
 }
